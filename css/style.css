@@ -28,6 +28,8 @@ p{
     background: #333;
 }
 .card-img{
+    display: flex;
+    flex-flow: row;
     padding: 1rem 0rem 0rem 2rem;
 }
 img{
@@ -50,6 +52,10 @@ img{
     color: #fff;
 }
 .img-size{
-    width: 50% !important;
+    width: 100% !important;
     max-width: 100% !important;
+}
+.div-img{
+    width: 100% !important;
+    max-width: 100%
 }
