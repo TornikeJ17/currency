@@ -50,6 +50,6 @@ img{
     color: #fff;
 }
 .img-size{
-    width: 50%;
-    max-width: 100%;
+    width: 50% !important;
+    max-width: 100% !important;
 }
