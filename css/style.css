@@ -49,3 +49,7 @@ img{
     font-family: "BPG Nino Mtavruli", sans-serif;
     color: #fff;
 }
+.card-img-top{
+    width: 50%;
+    max-width: 100%;
+}
